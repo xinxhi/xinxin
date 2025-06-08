@@ -1,0 +1,24 @@
+# Node.js 项目常见忽略项
+node_modules/
+dist/
+
+# VS Code 配置
+.vscode/
+
+# macOS 系统文件
+.DS_Store
+
+# Windows 系统文件
+Thumbs.db
+desktop.ini
+
+# Python 环境（如果你用到 Python）
+__pycache__/
+*.pyc
+
+# 日志文件
+*.log
+
+# 其他可能的 IDE
+.idea/
+*.iml
